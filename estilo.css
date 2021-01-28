@@ -1,0 +1,16 @@
+body{
+    font: normal 20pt arial;
+    background-color: rgb(24, 113, 214);
+    color: white;
+}
+input {
+    font: normal 18pt arial;
+}
+label{
+
+    font: normal 30pt arial;
+    font-weight: bold;
+}
+div#res{
+    margin-top: 20px;
+}
